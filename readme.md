@@ -23,9 +23,7 @@
 ## 📦 Tech Stack
 
 - HTML5  
-- CSS3 (with transitions and keyframes)  
-- JavaScript (vanilla)  
-- [Optional] GSAP or Framer Motion for advanced animations
+- CSS3 (with transitions)  
 
 ---
 
@@ -34,32 +32,29 @@
 Check out the interactive demo here: 
 <br>
 <span>👉 Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="." width="575px"/>
+<a href="https://www.behance.net/gallery/223963249/HoverCart-Interactive-Product-CardsHover-Effects" target="_blank" >
+<img src="./img/HoverCar.gif" width="575px"/>
 </a>
 
 <br>
 <span>👉 Desktop UI UX Design</span><br/>
-<a href="#" target="_blank" >
-<img src="./" width="575px"/>
+<a href="https://www.behance.net/gallery/223963249/HoverCart-Interactive-Product-CardsHover-Effects" target="_blank" >
+<img src="./img/HoverCartUIUXLayout.gif" width="575px"/>
 </a>
 <br />
 <span>📸 Desktop Design UI UX Layout</span><br/>
-<a href="#" target="_blank" >
-<img src="./" width="325px"/>
-<img src="./" width="325px"/>
-<img src="./" width="325px"/>
+<a href="https://www.behance.net/gallery/223963249/HoverCart-Interactive-Product-CardsHover-Effects" target="_blank" >
+<img src="./img/HoverCartUIUXLayout.png" width="325px"/>
+<img src="./img/HoverCartHoverUIUXLayout.png" width="325px"/>
 </a>
 <br />
 <span>📸 Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="./" width="325px"/>
-<img src="./" width="325px"/>
-<img src="./" width="325px"/>
-<img src="./" width="325px"/>
+<a href="https://www.behance.net/gallery/223963249/HoverCart-Interactive-Product-CardsHover-Effects" target="_blank" >
+<img src="./img/HoverCart.png" width="325px"/>
+<img src="./img/HoverCartHover.png" width="325px"/>
 </a>
 
 <span>Cover</span><br/>
-<a href="#" target="_blank" >
-<img src="./" width="575px"/>
+<a href="https://www.behance.net/gallery/223963249/HoverCart-Interactive-Product-CardsHover-Effects" target="_blank" >
+<img src="./img/cover.png" width="575px"/>
 </a>
